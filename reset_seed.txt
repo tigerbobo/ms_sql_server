@@ -1,0 +1,1 @@
+dbcc checkident('table_name', reseed, 1)
